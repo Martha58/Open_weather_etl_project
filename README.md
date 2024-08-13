@@ -4,16 +4,16 @@ The goal of this end-to-end ETL project is to extract data from open weather API
 
 # TOOLS USED
 
-AWS EC2
-VisulaStudio Code
+1. AWS EC2
+2. VisulaStudio Code
 
 # LIBARIES IMPORTED
 
-Pandas
-Json
-Requests
+1. Pandas
+2. Json
+3. Requests
 
 # STEPS I TOOK
 
-
+1. 
 
